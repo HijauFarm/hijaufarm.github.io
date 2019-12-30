@@ -1,3 +1,5 @@
+alert("Website ini masih dalam tahap pengembangan")
+
 // Sidenav
 const sideNav = document.querySelectorAll('.sidenav');
 M.Sidenav.init(sideNav);
